@@ -14,3 +14,11 @@ p {
   color: blue;
   font-size: 14px;
 }
+a {
+  text-align: center;
+}
+div {
+  color: red;
+  margin: auto;
+  border: 3px wide solid and green; 
+}
