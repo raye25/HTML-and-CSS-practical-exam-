@@ -3,3 +3,14 @@ TEJ20
 Friday, January 26, 2018
 this is the html and css practical exam 
 
+html {
+  padding: 100px 20% 100px 20%;
+}
+body {
+  background-color: yellow;
+  margin: 0;
+}
+p {
+  color: blue;
+  font-size: 14px;
+}
